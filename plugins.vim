@@ -17,7 +17,7 @@ Plug 'junegunn/fzf'
 Plug 'junegunn/fzf.vim'
 
 " Lightline
- Plug 'itchyny/lightline.vim'
+Plug 'itchyny/lightline.vim'
 
 call plug#end()
 
